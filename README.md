@@ -7,3 +7,11 @@ Amazon Alexa development has become an obsession over the last 4 years. My most 
 I'm currently working with Node.JS and MongoDB, this is evident if you take a look at my repos. I'm loving the performance and scalability of the MEAN stack and the friendly, pro-active community support that comes with it - a refreshing change from my time working on .NET solutions.
 
 You can also find me on the education discussion boards at MongoDB, which I'm a heavy contributor to since starting a series of online training certifications.
+<p align="center">
+  <img src="https://github.com/jewkesy/jewkesy/blob/master/alexa.png" width="50" height="50" />
+  <img src="https://github.com/jewkesy/jewkesy/blob/master/JavaScript-01.png" width="50" height="50" />
+  <img src="https://github.com/jewkesy/jewkesy/blob/master/Node-JS-02.png" width="50" height="50" />
+  <img src="https://github.com/jewkesy/jewkesy/blob/master/C-Sharp-01.png" width="50" height="50" />
+  <img src="https://github.com/jewkesy/jewkesy/blob/master/HTML-5-01.png" width="50" height="50" />
+  <img src="https://github.com/jewkesy/jewkesy/blob/master/Angular-JS-01.png" width="50" height="50" />
+</p>
