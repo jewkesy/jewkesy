@@ -1,6 +1,6 @@
 # Hi, I'm Daryl 👋
 
-I'm a Team Lead developer who has an extensive background in creating content-rich web applications and background services using established technologies and design patterns.
+I'm a Team Lead Developer who has an extensive background in creating content-rich web applications and background services using established technologies and design patterns.
 
 Amazon Alexa development has become an obsession over the last 5 years. My most popular Skill Popcorn Quiz, released in May 2017, stormed into the Top 10 Featured, Recommended, Staff Picks and Most Popular categories on the Amazon homepage and has stayed there for over 2 years now. 
 
